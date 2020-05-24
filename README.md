@@ -26,13 +26,13 @@
 	Walk:
 		Use [arrows].
 	Open Inventory:
-		Use [I]
+		Use [I].
 	Open Quest Book:
-		Use [Q]
+		Use [Q].
 	Interract:
-		Use [E]
+		Use [E].
 	Pause:
-		Use [Esc]
+		Use [Esc].
 
 Authors:
 	Enzo Ventura, Achille Bourgault, Leo Fabre & Quentin Waguet.
