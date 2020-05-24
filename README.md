@@ -19,10 +19,10 @@
 	You earn XP when you fight.
 	The difficulty will depend of your level in-game.
 
-2. Combats
+2. Combats :
 	Press space when the bar is full to hit with maximal damage !
 
-2. Keys
+2. Keys :
 	Walk:
 		Use [arrows].
 	Open Inventory:
