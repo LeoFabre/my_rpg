@@ -17,10 +17,10 @@
 1. How to Play ?
 	You can Launch the game with './my_rpg'.
 	You earn XP when you fight.
-	The difficulty depend of your level in-game.
+	The difficulty will depend of your level in-game.
 
 2. Combats
-	Press space when the bar is full for hit with maximal damages.
+	Press space when the bar is full to hit with maximal damage !
 
 2. Keys
 	Walk:
